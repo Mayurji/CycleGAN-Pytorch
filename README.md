@@ -20,6 +20,11 @@ CycleGAN generators take one of two forms: U-Net or ResNet (residual network).
 
 [**CycleGAN Paper**](https://arxiv.org/abs/1703.10593)
 
+**Dataset**
+     
+     Horse2Zebra
+     Monet2Photo
+ 
 **Result**
 
 ![CycleGAN.png](CycleGAN.png)

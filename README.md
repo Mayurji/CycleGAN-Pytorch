@@ -1,7 +1,5 @@
 # CycleGAN Using Pytorch and Keras
 
-**CycleGAN and its Implementation using Pytorch and Keras.**
-
 **CycleGAN Overview**
 
 CycleGAN is a generative model, which transfers the style aspects of an image to another image. Before CycleGAN networks were introduced, a pre-requisite was to train the generative model is that the each image in the training set to exist in both the source and target domain. While it is possible to manufacture this kind of dataset for some style problem settings (e.g., black and white to color photos, maps to satellite images), for others it is impossible. For example, we do not have original photographs of the pond where Monet painted his Water Lilies series, nor do we have a Picasso painting of the Empire State Building. It would also take enormous effort to arrange photos of horses and zebras standing in identical positions.
